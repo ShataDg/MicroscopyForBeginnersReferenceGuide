@@ -15,6 +15,7 @@ What is segmentation
 ### 3. Panoptic segmentation
 (some text + image)
 
+## DL vs ML 
 
 ## How do I optimize the segmenation?
 
